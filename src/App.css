@@ -1,5 +1,23 @@
+.linha{
+
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  justify-content: space-around;
+
+}
+
+.h1{
+
+  text-align: center;
+
+}
 .App {
   text-align: center;
+  margin: auto;
+  max-width: 900px;
 }
 
 .App-logo {
